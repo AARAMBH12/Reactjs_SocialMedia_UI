@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React UI Project
 
 A modern React-based user interface application that simulates a social media feed. This project showcases a responsive layout with posts, sidebar, rightbar, and a toggleable dark/light mode theme.
