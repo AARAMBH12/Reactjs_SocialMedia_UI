@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React UI Project
 
 A modern React-based user interface application that simulates a social media feed. This project showcases a responsive layout with posts, sidebar, rightbar, and a toggleable dark/light mode theme.
@@ -78,3 +79,6 @@ This is a private project. Contributions are not currently accepted.
 ## License
 
 This project is private and not licensed for public use.
+=======
+# Reactjs_SocialMedia_UI
+>>>>>>> d8380d059e9658710d058bbc6aa2398d7244fb7c
